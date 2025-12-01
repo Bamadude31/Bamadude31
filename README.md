@@ -1,146 +1,132 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bamadude31/Bamadude31/main/A_digital_painting_depicts_a_lone_traveler_walking.png" alt="Digital Canyon Data Explorer Banner" width="100%">
+</p>
 
+<!-- Animated Typing Header -->
+<h2 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D7C9&center=true&vCenter=true&width=750&lines=Data+Engineer;Full-Stack+Developer;Cloud+Architect+in+Training;U.S.+Space+Force+Veteran;Adaptable.+Analytical.+Always+Learning."
+    alt="Typing Animation"
+  />
+</h2>
 
-# Hi there, I'm Bill! 👋
+---
+
+# 🌄 Hi, I'm Bill  
+### **Data Engineer | Full-Stack Developer | Space Force Veteran**
+
+I’m a mission-driven engineer transitioning from 22 years in the **U.S. Space Force** into a career building scalable, cloud-powered data systems and full-stack applications.
+
+I thrive in environments that require **adaptability, analytical thinking, and precision**, and I love transforming raw data into reliable insights through automation and modern engineering practices.
+
+---
+
+# 🛡️ Certifications & Badges
+
+### 🎓 **Education**
+![WGU MSDA](https://img.shields.io/badge/WGU-M.S.%20Data%20Analytics-274E87?logo=western-governors-university&logoColor=white)
+![Bachelor's](https://img.shields.io/badge/B.S.%20Computer%20Science-1A3A4A?style=flat)
+
+### 🧠 **Core Skills**
+![Python](https://img.shields.io/badge/Python-1A3A4A?logo=python&logoColor=00D7C9)
+![SQL](https://img.shields.io/badge/SQL-0F1B22?logo=postgresql&logoColor=00D7C9)
+![Apache Airflow](https://img.shields.io/badge/Airflow-1A3A4A?logo=apache-airflow&logoColor=00D7C9)
+![Spark](https://img.shields.io/badge/Apache%20Spark-1A3A4A?logo=apachespark&logoColor=00D7C9)
+![Docker](https://img.shields.io/badge/Docker-1A3A4A?logo=docker&logoColor=00D7C9)
+![AWS](https://img.shields.io/badge/AWS-0F1B22?logo=amazonaws&logoColor=00D7C9)
+![GCP](https://img.shields.io/badge/GCP-1A3A4A?logo=googlecloud&logoColor=00D7C9)
+![Azure](https://img.shields.io/badge/Azure-0F1B22?logo=microsoftazure&logoColor=00D7C9)
+
+### 🧑‍💻 **Full-Stack Development**
+![Node.js](https://img.shields.io/badge/Node.js-1A3A4A?logo=nodedotjs&logoColor=00D7C9)
+![Express](https://img.shields.io/badge/Express-0F1B22?logo=express&logoColor=00D7C9)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A3A4A?logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-1A3A4A?logo=html5&logoColor=00D7C9)
+![CSS3](https://img.shields.io/badge/CSS3-0F1B22?logo=css3&logoColor=00D7C9)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1A3A4A?logo=swagger&logoColor=00D7C9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F1B22?logo=postgresql&logoColor=00D7C9)
+
+---
+
+# 🧰 Tech Stack — “Deep Teal Canyon” Theme
+
+## 🗄️ Data Engineering & Cloud
+- ETL/ELT pipelines & workflow automation  
+- Apache Airflow (DAG orchestration)  
+- Spark & distributed processing  
+- Data warehousing (PostgreSQL, Redshift, BigQuery)  
+- Cloud: AWS, Azure, GCP  
+- Docker, containers & microservices  
+- CI/CD & dev automation  
+- API integrations  
+
+## 🧑‍💻 Full-Stack Development
+**Frontend:**  
+- HTML, CSS, JavaScript  
+- Responsive SPA design  
+- Component-based architecture  
+
+**Backend:**  
+- Node.js & Express  
+- REST API development  
+- Database schema design  
+- Authentication & user management  
+
+---
+
+# 📌 Featured Projects (Repo Cards)
 
 <div align="center">
 
-**Data Engineer | Master's Student | Cloud & Analytics Enthusiast**
+<!-- Airflow Pipeline -->
+<a href="https://github.com/Bamadude31/Data-Pipeline-with-Airflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bamadude31&repo=Data-Pipeline-with-Airflow&theme=tokyonight&title_color=00D7C9&icon_color=00D7C9" />
+</a>
 
-Pursuing a Master's in Data Analytics & Engineering at WGU while building scalable data pipelines and cloud infrastructure solutions.
+<!-- Inventory App -->
+<a href="https://github.com/Bamadude31/inventory_management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bamadude31&repo=inventory_management&theme=tokyonight&title_color=00D7C9&icon_color=00D7C9" />
+</a>
 
----
+<!-- STEDI Analytics -->
+<a href="https://github.com/Bamadude31/STEDI-Human-Balance-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bamadude31&repo=STEDI-Human-Balance-Analytics&theme=tokyonight&title_color=00D7C9&icon_color=00D7C9" />
+</a>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Bamadude31&show_icons=true&theme=radical&hide_rank=false"/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamadude31&layout=compact&theme=radical"/>
+<!-- D609 Data at Scale -->
+<a href="https://github.com/Bamadude31/D609_Data_A_at_Scale">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bamadude31&repo=D609_Data_A_at_Scale&theme=tokyonight&title_color=00D7C9&icon_color=00D7C9" />
+</a>
 
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bamadude31&show_icons=true&theme=tokyonight&title_color=00D7C9&icon_color=00D7C9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bamadude31&layout=compact&theme=tokyonight&title_color=00D7C9" height="165" />
+</p>
 
 ---
 
-## 🎓 About Me
-
-I'm a data engineer and analytics enthusiast currently pursuing my **Master's degree in Data Analytics & Engineering** at Western Governors University. With hands-on experience in cloud platforms, ETL pipeline architecture, and business intelligence, I'm passionate about designing robust data systems that drive actionable insights.
-
-**Technical Focus Areas:**
-- Building scalable data pipelines with Apache Airflow, Docker, and containerized architectures
-- Cloud infrastructure on AWS, GCP, and Azure
-- Data warehousing and analytics (SQL, PostgreSQL, cloud data platforms)
-- Business intelligence and data-driven decision making
+# 🎯 What I'm Learning Next
+- Data Lake / Lakehouse architectures  
+- Monitoring & observability  
+- Feature engineering for ML pipelines  
+- CI/CD automation  
+- Generative AI & intelligent automation  
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages & Data Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Data Engineering & Pipeline Tools
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Development & Productivity Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-### Web Development & Frameworks
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-### Learning Platforms & Resources
-
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+# 🔗 Connect With Me
+**GitHub:** [@Bamadude31](https://github.com/Bamadude31)  
+**LinkedIn:** *Add your link here for a matching badge*
 
 ---
 
-## 🎯 Current Projects & Focus
-
-📚 **Master's Capstone Projects**
-- Building advanced data pipelines with cloud orchestration
-- Designing scalable ETL architectures
-- Exploring modern data warehousing solutions
-
-🔧 **Technical Interests**
-- Apache Airflow and workflow automation
-- Snowflake and Databricks analytics platforms
-- CI/CD pipelines and DevOps practices
-- Advanced SQL and data transformation techniques
-- Cloud-native data architectures
-
-🚀 **Career Goals**
-- Specializing in cleared defense contracting roles
-- Advancing data engineering practices in enterprise environments
-- Mentoring junior engineers in pipeline architecture
-
----
-
-## 💡 Beyond Code
-
-Outside of data engineering, I'm passionate about:
-
-🏋️ **Fitness:** 5x5 strength training, functional bodybuilding, and rugby-focused conditioning
-
-🖨️ **3D Printing:** Designing and modifying 3D printers for custom projects
-
-🌱 **Gardening:** Building and optimizing drip irrigation systems
-
-🎮 **Gaming & Collecting:** Magic: The Gathering strategy and Pokémon trading card collecting
-
----
-
-## 📊 My GitHub Stats
-
-| Metric | Value |
-|--------|-------|
-| Public Repos | Showcasing data pipeline, analytics, and full-stack projects |
-| Primary Focus | Data engineering & ETL architectures |
-| Open Source | Contributing to data tooling and documentation |
-
----
-
-## 📫 Let's Connect
-
-I'm actively seeking opportunities in **data engineering**, **cloud architecture**, and **cleared defense contracting roles**. Feel free to reach out!
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) *(Update this)*
-- 📧 [Email](mailto:your.email@example.com) *(Update this)*
-- 🌐 [Portfolio](https://yourportfolio.com) *(Update this if you have one)*
-
----
-
-## ✨ Fun Fact
-
-I love solving complex data problems with elegant, scalable solutions — whether it's orchestrating pipelines with Airflow or optimizing SQL queries for performance. When I'm not coding, I'm likely lifting weights, tinkering with my 3D printer, or strategizing my next Magic deck!
-
----
-
-*Last Updated: November 2025 | Always learning, always growing 🚀*
+# 🌌 Footer — The Adventure Theme  
+*"Every dataset is a landscape. Every pipeline is a path.  
+The challenge is the journey — and I'm always ready for the next mile."*
