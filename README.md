@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bamadude31/Bamadude31/main/A_digital_painting_depicts_a_lone_traveler_walking.png" alt="Digital Canyon Data Explorer Banner" width="100%">
+  <img src="https://github.com/Bamadude31/Bamadude31/blob/main/Travel_in_the_digital_space.png" alt="Digital Canyon Data Explorer Banner" width="100%">
 </p>
 
 <!-- Animated Typing Header -->
