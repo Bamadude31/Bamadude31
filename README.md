@@ -123,7 +123,7 @@ I thrive in environments that require **adaptability, analytical thinking, and p
 
 # 🔗 Connect With Me
 **GitHub:** [@Bamadude31](https://github.com/Bamadude31)  
-**LinkedIn:** *Add your link here for a matching badge*
+**LinkedIn:** [William Aldridge](https://www.linkedin.com/in/william-aldridge-ussf/) 
 
 ---
 
