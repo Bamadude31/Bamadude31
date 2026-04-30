@@ -26,7 +26,7 @@ I thrive in environments that require **adaptability, analytical thinking, and p
 
 ### 🎓 **Education**
 ![WGU MSDA](https://img.shields.io/badge/WGU-M.S.%20Data%20Analytics-274E87?logo=western-governors-university&logoColor=white)
-![Bachelor's](https://img.shields.io/badge/B.S.%20Computer%20Science-1A3A4A?style=flat)
+![UMGC](https://img.shields.io/badge/UMGC-B.S.%20Computer%20Networks%20%26%20Cybersecurity-1A3A4A?logo=academia&logoColor=00D7C9)
 
 ### 🧠 **Core Skills**
 ![Python](https://img.shields.io/badge/Python-1A3A4A?logo=python&logoColor=00D7C9)
