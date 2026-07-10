@@ -13,12 +13,22 @@
 
 ---
 
-# 🌄 Hi, I'm Bill  
-### **Data Engineer | Full-Stack Developer | Space Force Veteran**
+# 🌄 Hi, I'm Bill
 
-I’m a mission-driven engineer transitioning from 22 years in the **U.S. Space Force** into a career building scalable, cloud-powered data systems and full-stack applications.
+### **Python Capabilities Developer | ICS/SCADA Cybersecurity | Data Engineer | Space Force Veteran**
 
-I thrive in environments that require **adaptability, analytical thinking, and precision**, and I love transforming raw data into reliable insights through automation and modern engineering practices.
+I'm a mission-driven engineer who spent 21+ years in the **U.S. Navy and U.S. Space Force** (retiring as a TSgt/E-6) before transitioning into cyber capabilities development. I currently work as a **Python Capabilities Developer at SAIC**, building cyber tooling with an **ICS/SCADA focus**.
+
+I thrive in environments that require **adaptability, analytical thinking, and precision**, and I love the overlap between industrial control systems, secure Python tooling, and data engineering — turning raw data and protocol traffic into reliable insight and defensible systems.
+
+---
+
+# 🎯 Currently Working On
+
+- Python-based cyber capabilities development targeting ICS/SCADA environments
+- Home lab: **OpenPLC** + **CODESYS**, running **OPC UA** and **Modbus**, across a dedicated Raspberry Pi ICS/SCADA VLAN
+- Studying toward **GICSP (SANS ICS410)** as a primary certification target
+- Offensive security and exploit development fundamentals as they apply to industrial protocols
 
 ---
 
@@ -49,29 +59,31 @@ I thrive in environments that require **adaptability, analytical thinking, and p
 
 ---
 
-# 🧰 Tech Stack — “Deep Teal Canyon” Theme
+# 🧰 Tech Stack — "Deep Teal Canyon" Theme
+
+## 🏭 ICS/SCADA & Industrial Security
+
+- Protocol work with Modbus and OPC UA
+- OpenPLC and CODESYS PLC programming/simulation
+- Raspberry Pi lab nodes on a dedicated ICS/SCADA VLAN
+- CISA ICS-CERT frameworks and industrial threat awareness
+- Python tooling for cyber capabilities development
 
 ## 🗄️ Data Engineering & Cloud
-- ETL/ELT pipelines & workflow automation  
-- Apache Airflow (DAG orchestration)  
-- Spark & distributed processing  
-- Data warehousing (PostgreSQL, Redshift, BigQuery)  
-- Cloud: AWS, Azure, GCP  
-- Docker, containers & microservices  
-- CI/CD & dev automation  
-- API integrations  
+
+- ETL/ELT pipelines & workflow automation
+- Apache Airflow (DAG orchestration)
+- Spark & distributed processing
+- Data warehousing (PostgreSQL, Redshift, BigQuery)
+- Cloud: AWS, Azure, GCP
+- Docker, containers & microservices
+- CI/CD & dev automation
+- API integrations
 
 ## 🧑‍💻 Full-Stack Development
-**Frontend:**  
-- HTML, CSS, JavaScript  
-- Responsive SPA design  
-- Component-based architecture  
 
-**Backend:**  
-- Node.js & Express  
-- REST API development  
-- Database schema design  
-- Authentication & user management  
+**Frontend:** HTML, CSS, JavaScript, responsive SPA design, component-based architecture
+**Backend:** Node.js & Express, REST API development, database schema design, auth & user management
 
 ---
 
@@ -113,11 +125,13 @@ I thrive in environments that require **adaptability, analytical thinking, and p
 ---
 
 # 🎯 What I'm Learning Next
-- Data Lake / Lakehouse architectures  
-- Monitoring & observability  
-- Feature engineering for ML pipelines  
-- CI/CD automation  
-- Generative AI & intelligent automation  
+
+- ICS/SCADA offensive security & exploit development fundamentals
+- SANS ICS410 / GICSP certification
+- Secure Python tooling for cyber capabilities work
+- Data Lake / Lakehouse architectures
+- Monitoring & observability
+- Generative AI & intelligent automation
 
 ---
 
